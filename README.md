@@ -50,7 +50,7 @@ The backend leverages **Spring Boot** for a clean, structured codebase with a **
 
 **1. Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/icysettee/Ecommerce.git
 ```
 
 **2. Navigate to the project directory:**
